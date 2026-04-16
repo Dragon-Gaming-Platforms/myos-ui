@@ -10,7 +10,7 @@
         "name": "Text Editor",
         "description": "Browser based text editor",
         "type": "HTML App",
-        "html_url": "https://raw.githubusercontent.com/your-username/myos-apps/main/editor.html",
+        "html_url": "https://raw.githubusercontent.com/Dragon-Gaming-Platforms/myos-apps/main/editor.html",
         "repo": null
     },
     {
@@ -24,7 +24,7 @@
         "name": "Clock",
         "description": "A simple clock app",
         "type": "HTML App",
-        "html_url": "https://raw.githubusercontent.com/your-username/myos-apps/main/clock.html",
+        "html_url": "https://raw.githubusercontent.com/Dragon-Gaming-Platforms/myos-apps/main/clock.html",
         "repo": null
     }
 ]
