@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Calculator",
+        "description": "Simple browser calculator",
+        "type": "HTML App",
+        "html_url": "https://raw.githubusercontent.com/your-username/myos-apps/main/calculator.html",
+        "repo": null
+    },
+    {
+        "name": "Text Editor",
+        "description": "Browser based text editor",
+        "type": "HTML App",
+        "html_url": "https://raw.githubusercontent.com/your-username/myos-apps/main/editor.html",
+        "repo": null
+    },
+    {
+        "name": "Terminal Snake Game",
+        "description": "Play snake in the terminal",
+        "type": "Terminal App",
+        "html_url": null,
+        "repo": "your-username/snake-game"
+    },
+    {
+        "name": "Clock",
+        "description": "A simple clock app",
+        "type": "HTML App",
+        "html_url": "https://raw.githubusercontent.com/your-username/myos-apps/main/clock.html",
+        "repo": null
+    }
+]
